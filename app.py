@@ -145,9 +145,9 @@ if st.button("Check Match"):
             st.markdown("### ⚠️ WARNING: Low Match Score")
             st.markdown("Your resume is likely to be rejected by the ATS.")
             st.markdown("🔥 **Fix your resume instantly with The Lazy Engineer's Pack**")
-            st.link_button("Get The Pack Now", "https://gumroad.com/your-shop-link") # Placeholder link
+            st.link_button("Get The Pack Now", "https://careeronfire.gumroad.com/l/hiwih") # Placeholder link
         else:
             st.markdown("### ✅ Great job!")
             st.markdown("You are ready to beat the bots.")
             st.markdown("Want to prep for the interview? Check my other tools.")
-            st.link_button("Check Other Tools", "https://gumroad.com/your-shop-link") # Placeholder link
+            st.link_button("Check Other Tools", "https://careeronfire.gumroad.com/l/hiwih") # Placeholder link
