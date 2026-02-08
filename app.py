@@ -150,4 +150,4 @@ if st.button("Check Match"):
             st.markdown("### ✅ Great job!")
             st.markdown("You are ready to beat the bots.")
             st.markdown("Want to prep for the interview? Check my other tools.")
-            st.link_button("Check Other Tools", "https://careeronfire.gumroad.com/?_gl=1*19p4imf*_ga*NzgwNDY5MDA0LjE3NTIwMjUwOTM.*_ga_6LJN6D94N6*czE3NzA1Mjc4OTMkbzg0JGcxJHQxNzcwNTI4NDMzJGoxNiRsMCRoMA..&section=gIvNncSnossMIRwVnKQmGQ%3D%3D#GxQ3TWOiX8XhLrTqHZpnTg==") # Placeholder link
+            st.link_button("Check Other Tools", "https://careeronfire.gumroad.com/") # Placeholder link
